@@ -7,10 +7,10 @@ require "tokopedia_api/version"
 Gem::Specification.new do |s|
   s.name        = "tokopedia_api"
   s.version     = TokopediaApi::VERSION
-  s.authors     = ["Aden Aziz Hasnayakin"]
-  s.email       = ["aden.aziz948@gmail.com"]
-  s.homepage    = "http://www.grineproject.blogspot.co.id"
-  s.summary     = "Unofficial Tokopedia API for Rails"
+  s.authors     = ["Megumi Aliya"]
+  s.email       = ["megumialiya0401@gmail.com"]
+  s.homepage    = "https://github.com/askareija/tokopediaapi"
+  s.summary     = "Tokopedia API for Rails"
   s.description = "This plugin gives products & sellers data from tokopedia."
   s.license     = "MIT"
 
